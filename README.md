@@ -25,9 +25,8 @@ sqlite3
 # Installation
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/akasa-air-data-task.git
+    git clone https://github.com/yourusername/akasa-air-data-task.git
     cd akasa-air-data-task 
-      
 3. Install the necessary libraries:
       ```bash
       pip install -r requirements.txt
