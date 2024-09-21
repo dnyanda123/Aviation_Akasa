@@ -32,26 +32,26 @@ sqlite3
 
 ## Data Cleaning
 The cleaning process addresses the following:
--Inconsistent date and time formats.
--Missing values in the DelayMinutes column, which are filled with the mean value.
--Duplicate entries removed.
--Invalid time entries corrected.
+- Inconsistent date and time formats.
+- Missing values in the DelayMinutes column, which are filled with the mean value.
+- Duplicate entries removed.
+- Invalid time entries corrected.
 
 ## Data Analysis
 After cleaning, the analysis focuses on:
--Delay distributions: Understanding which flights are delayed the most and when.
--Airline performance: Calculating average delay per airline.
--Delay trends: Investigating if certain departure times are more prone to delays.
+- Delay distributions: Understanding which flights are delayed the most and when.
+- Airline performance: Calculating average delay per airline.
+- Delay trends: Investigating if certain departure times are more prone to delays.
 
 ## Optional: Database Storage
 The cleaned and normalized data can be stored in an SQLite database for further querying.
 
 ## Testing the Pipeline
 The pipeline is tested at each stage to ensure correctness:
--Data loaded successfully.
--Cleaning steps (missing values, format changes) are correctly applied.
--Normalization and calculations (flight duration) are validated.
--Data written to the database is correct.
+- Data loaded successfully.
+- Cleaning steps (missing values, format changes) are correctly applied.
+- Normalization and calculations (flight duration) are validated.
+- Data written to the database is correct.
 
 ## Contributing
 If you want to contribute to this project, feel free to fork the repository and submit a pull request.
