@@ -4,7 +4,7 @@
 This project is a data engineering and analytics task based on aviation data. The task focuses on cleaning, normalizing, and analyzing flight data to derive insights regarding delays, airlines, and other relevant trends. 
 
 ## Objective
-- The objective of this task is to:
+The objective of this task is to:
 - Clean and normalize flight data.
 - Analyze delays and trends in the dataset.
 - Provide recommendations to improve airline punctuality based on the findings.
