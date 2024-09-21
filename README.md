@@ -16,11 +16,11 @@ To run this project locally, follow these steps:
 Python 3.x installed.
 
 # Required Python libraries:
-pandas
-numpy
-matplotlib
-seaborn
-sqlite3
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sqlite3
 
 # Installation
 1. Clone the repository:
