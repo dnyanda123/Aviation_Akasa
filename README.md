@@ -24,11 +24,14 @@ sqlite3
 
 # Installation
 1. Clone the repository:
-      git clone https://github.com/yourusername/akasa-air-data-task.git
-      cd akasa-air-data-task
-2. Install the necessary libraries:
+    ```bash
+   git clone https://github.com/yourusername/akasa-air-data-task.git
+    cd akasa-air-data-task 
+      
+3. Install the necessary libraries:
+      ```bash
       pip install -r requirements.txt
-3. Place the dataset (aviation_data.csv) in the project directory.
+5. Place the dataset (aviation_data.csv) in the project directory.
 
 ## Data Cleaning
 The cleaning process addresses the following:
