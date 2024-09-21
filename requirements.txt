@@ -1,0 +1,6 @@
+Python==3.12.2
+Numpy==2.1.1
+Matplotlib==3.9.2
+Seaborn==0.13.2
+Pandas==2.2.2
+SQlite3==3.46.1
