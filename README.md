@@ -25,8 +25,8 @@ Python 3.x installed.
 # Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/akasa-air-data-task.git
-    cd akasa-air-data-task 
+    git clone https://github.com/dnyanda123/Aviation_Akasa
+    cd Aviation_Akasa 
 3. Install the necessary libraries:
       ```bash
       pip install -r requirements.txt
