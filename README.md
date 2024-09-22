@@ -60,5 +60,5 @@ If you want to contribute to this project, feel free to fork the repository and 
 
 ## Contact
 For any questions or feedback, please reach out to:
-  Name: Dnyaneshwari Pramod Nemade
-  Email: dnyaneshwarinemade02@gmail.com
+ - Name: Dnyaneshwari Pramod Nemade
+ - Email: dnyaneshwarinemade02@gmail.com
